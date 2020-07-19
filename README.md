@@ -32,3 +32,6 @@ Enjoy the messy code! I did this project for 15 hours-ish and I am happy about i
 **This outputs 100**
 
 and so on.
+
+## LICENSE
+This program is released under MIT license. LICENSE file has more info.
